@@ -1,4 +1,4 @@
-# Smart ATS
+# Job Fit Analyzer
 
 ## Project Overview
 
